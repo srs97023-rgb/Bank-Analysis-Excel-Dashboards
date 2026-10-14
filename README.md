@@ -1,6 +1,9 @@
 # Excel Dashboards
 
 Two Excel workbooks built with Pivot Tables, Slicers and a summary dashboard sheet.
+<img width="860" height="398" alt="Debit-Credit_card_Image" src="https://github.com/user-attachments/assets/78eb558a-4ecc-4c0e-b57c-077f9cea33d1" />
+<img width="930" height="469" alt="Bank_Dashboard_image" src="https://github.com/user-attachments/assets/a6b51f77-67ef-4ff9-9bec-a7d39356195b" />
+
 
 ## 1. Debit & Credit Transaction Analysis
 **File:** `Debit_and_Credit_banking_data_new_2_.xlsx`
